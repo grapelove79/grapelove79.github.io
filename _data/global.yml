@@ -1,14 +1,15 @@
 # Site Settings
-title: "Front-end Super Hero"
-description: "누구에게나 동등한 웹을 꿈꾸는 프론트엔드 디벨로퍼"
-url: 'http://rovermind.github.io' # the base hostname & protocol for your site
+title: "Kim Youngsun"
+description: "Front-end Developer"
+url: 'http://grapelove79.github.io' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2016 rovermind'
+footer_text: '© 2016 Kim Youngsun'
 twitter: ''
-github: 'rovermind'
+github: 'grapelove79'
 medium: ''
+github: 'grapelove79'
 
 # Admin Settings
-admin_name: 'rovermind'
-admin_email: 'zentlekimbba@gmail.com'
+admin_name: 'grapelove79'
+admin_email: 'grapelove79@gmail.com'
 google_analytics: "" # Update with your own tracking ID
