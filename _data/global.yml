@@ -1,0 +1,14 @@
+# Site Settings
+title: "Front-end Super Hero"
+description: "누구에게나 동등한 웹을 꿈꾸는 프론트엔드 디벨로퍼"
+url: 'http://rovermind.github.io' # the base hostname & protocol for your site
+nav: "true"
+footer_text: '© 2016 rovermind'
+twitter: ''
+github: 'rovermind'
+medium: ''
+
+# Admin Settings
+admin_name: 'rovermind'
+admin_email: 'zentlekimbba@gmail.com'
+google_analytics: "" # Update with your own tracking ID
