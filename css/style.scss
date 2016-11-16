@@ -33,12 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background:
-    linear-gradient(
-      rgba(233, 237, 240, 0.45),
-      rgba(233, 237, 240, 0.45)
-    ),
-    url('../img/bg-comics-pattern.png');
+  background-color: #e9edf0;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 
