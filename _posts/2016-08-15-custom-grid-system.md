@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Custom Grid System'
-date: 2016-07-10 20:56:00
+date: 2016-08-15 20:56:00
 categories: development
 tags: Grid-system
 featured_image: 'img/posts/grid-system-custom-1130x864-2x.png'
