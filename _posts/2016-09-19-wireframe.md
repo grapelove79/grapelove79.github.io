@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Responsive Grid System'
+title: 'Wireframe'
 date: 2016-09-19 19:50:00
 categories: development
 tags: HTML5 CSS3 Sass
