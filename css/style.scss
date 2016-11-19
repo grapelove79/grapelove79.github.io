@@ -430,19 +430,20 @@ button.btn, input.btn {
     }
   }
   .section-jump {
-    display: inline-block;
-    position: fixed;
-    top: 75px;
-    right: 2%;
-    width: 50.53px;
-    height: 58.02px;
-    background: url('../img/flying-superman.png');
-    background-size: 100% auto;
-    transition: all 0.25s ease-in-out;
-    &:hover,
-    &:focus {
-      transform: scale(1.2) translate(5px, -15px);
-    }
+    // display: inline-block;
+    // position: fixed;
+    // top: 75px;
+    // right: 2%;
+    // width: 50.53px;
+    // height: 58.02px;
+    // background: url('../img/flying-superman.png');
+    // background-size: 100% auto;
+    // transition: all 0.25s ease-in-out;
+    // &:hover,
+    // &:focus {
+    //   transform: scale(1.2) translate(5px, -15px);
+    // }
+    float: right;
     @include bp-xsmall {
       display: none
     }
