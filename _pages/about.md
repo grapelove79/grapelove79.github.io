@@ -8,9 +8,9 @@ permalink: /about/
 --
 
 <div class="about-profile">
-	<div class="">
+<!-- 	<div class="">
     <a class="section-jump" href="#bottom" title="go to bottom"></a>
-  </div>
+  </div> -->
 
 	<div class="profile-img"><img src="../img/profile-batman.jpg" /></div>
 
