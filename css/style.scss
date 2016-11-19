@@ -219,25 +219,25 @@ button.btn, input.btn {
 	}
 }
 
-.hero-container .section-jump,
-.about-profile .section-jump {
-    display: inline-block;
-    position: fixed;
-    top: 45px;
-    left: 0.5%;
-    width: 69.4px;
-    height: 59.6px;
-    background: url('../img/swing-spiderman.png');
-    background-size: 100% auto;
-    transition: all 0.25s ease-in-out;
-    &:hover,
-    &:focus {
-      transform: scale(1.2) translate(5px, 15px);
-    }
-    @include bp-xsmall {
-      display: none
-    }
-  }
+// .hero-container .section-jump,
+// .about-profile .section-jump {
+//     display: inline-block;
+//     position: fixed;
+//     top: 45px;
+//     left: 0.5%;
+//     width: 69.4px;
+//     height: 59.6px;
+//     background: url('../img/swing-spiderman.png');
+//     background-size: 100% auto;
+//     transition: all 0.25s ease-in-out;
+//     &:hover,
+//     &:focus {
+//       transform: scale(1.2) translate(5px, 15px);
+//     }
+//     @include bp-xsmall {
+//       display: none
+//     }
+//   }
 
 /*--------------------------------------------------------------
 	2.1 Contact
