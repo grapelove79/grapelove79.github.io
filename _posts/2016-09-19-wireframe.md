@@ -8,6 +8,6 @@ tags: HTML5 CSS3 Sass
 featured_image: 'img/posts/wire-frame-1130x864-2x.png'
 project_link: 'https://grapelove79.github.io/FDS/Portfolio/Dongbu_wireframe/index.html'
 button_icon: 'desktop'
-button_text: 'Visit Webpage'
+button_text: 'Visit Project'
 lead_text: 'Wireframe'
 ---
