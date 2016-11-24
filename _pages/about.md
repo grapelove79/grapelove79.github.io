@@ -22,7 +22,9 @@ permalink: /about/
 제작 과정에서 테크니컬 이슈를 고려할 수 있어  구현 가능한 그래픽을 제작할 수 있다는 생각에  프론트엔드 개발을 공부를 하게되었습니다. 
 
 서비스를 만든다는 것이 디자인과 개발 한쪽에  치우친 사고로 고민해서는 해결될 문제가 아니라고 생각했습니다.
+
 <br>
+
 #### Technologies
 HTML, CSS, SASS, Javascript, jQuery, Photoshop, Illustrator
 
