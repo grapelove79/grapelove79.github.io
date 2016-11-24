@@ -1,6 +1,6 @@
 # Site Settings
-title: "Hello, I'm Kim Youngsun."
-description: "Front-end Developer"
+title: "Kim Youngsun."
+description: "Front-end Developer를 꿈꾸는 Web Designer"
 url: 'http://grapelove79.github.io' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2016 Kim Youngsun'
