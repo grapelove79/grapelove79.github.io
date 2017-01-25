@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Custom Grid System'
 date: 2016-08-15 20:56:00
 categories: development
